@@ -1,0 +1,17 @@
+{
+  "name": "bijli-sensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "battery-level": "^2.0.1",
+    "is-charging": "^1.1.0",
+    "node-power-info": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
